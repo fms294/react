@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Card, CardImg, CardImgOverlay, CardText, CardBody, CardTitle,BreadcrumbItem, Breadcrumb } from 'reactstrap';
+import { Card, CardImg, CardText, CardBody,BreadcrumbItem, Breadcrumb } from 'reactstrap';
 import {Link} from 'react-router-dom';
 
 class CampsiteInfo extends Component{

@@ -53,8 +53,7 @@ class Main extends Component {
                      < Route exact path='/contactus' component={Contact} />
                      < Redirect to='/home' />
                 </Switch>
-                <Footer />
-                
+                <Footer />  
             </div>
         );
     };
